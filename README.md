@@ -1,6 +1,6 @@
 # LpFileParser
 
-This is a C# library to parse (LP files)[http://lpsolve.sourceforge.net/5.1/lp-format.htm].
+This is a C# library to parse [LP files](http://lpsolve.sourceforge.net/5.1/lp-format.htm).
 
 ## Usage
 
