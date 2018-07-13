@@ -12,7 +12,7 @@ namespace LpFileParser
         Operator
     }
 
-    public class LPFileReader
+    public class LpFileReader
     {
         public LpFile FromFile(string filename)
         {

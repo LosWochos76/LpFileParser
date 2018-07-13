@@ -3,7 +3,7 @@
 namespace LpFileParser.Tests
 {
     [TestClass()]
-    public class LPFileReaderTests
+    public class LpFileReaderTests
     {
         [TestMethod()]
         public void FromStringsTest()
@@ -18,7 +18,7 @@ namespace LpFileParser.Tests
                 "+ 5 * x0 + 1 * x1 + 1 * x2 + 4 * x3 + 4 * x4 >= 15;"
             };
 
-            var reader = new LPFileReader();
+            var reader = new LpFileReader();
             var lpfile = reader.FromStrings(lp_text);
             var dump = lpfile.ToString().Split('\n');
 
