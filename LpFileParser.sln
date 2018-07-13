@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LpFileParser", "LpFileParser\LpFileParser.csproj", "{BDFEAB37-EFD5-42ED-8FC4-5D528280B1BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LpFileParserTests", "LpFileParserTests\LpFileParserTests.csproj", "{D3F8733D-9F1F-4F3C-9620-5513BC3F107C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDFEAB37-EFD5-42ED-8FC4-5D528280B1BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDFEAB37-EFD5-42ED-8FC4-5D528280B1BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDFEAB37-EFD5-42ED-8FC4-5D528280B1BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDFEAB37-EFD5-42ED-8FC4-5D528280B1BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3F8733D-9F1F-4F3C-9620-5513BC3F107C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3F8733D-9F1F-4F3C-9620-5513BC3F107C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3F8733D-9F1F-4F3C-9620-5513BC3F107C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3F8733D-9F1F-4F3C-9620-5513BC3F107C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E899B0D-7103-41C4-87B7-F096A023D787}
+	EndGlobalSection
+EndGlobal
